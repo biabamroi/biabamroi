@@ -1,5 +1,4 @@
-<center>
-
+<p align="center">
 ![header](https://capsule-render.vercel.app/api?type=Waving&fontSize=38&fontColor=black&text=Welcome&nbsp;To&nbsp;My&nbsp;GitHub&animation=fadeIn&color=auto)
 
  :sparkles: 
@@ -28,6 +27,7 @@
   <a href="mailto:kimhyein7110@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
 </p>
 
-</center>
+</p>
+
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biabamroi&show_icons=true&theme=graywhite)
