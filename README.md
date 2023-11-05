@@ -13,12 +13,15 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white">
+  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white">
 </p>
 
 <h3>:sparkles:</h3>
