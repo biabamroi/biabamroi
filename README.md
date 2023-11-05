@@ -1,3 +1,6 @@
+<div align="center">
+
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&fontSize=38&fontColor=black&text=Welcome&nbsp;To&nbsp;My&nbsp;GitHub&animation=fadeIn&color=timeGradient)
 
   
@@ -21,3 +24,7 @@
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=biabamroi&show_icons=true&theme=graywhite)
 <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biabamroi&layout=compact">
+
+
+
+</div>
