@@ -3,6 +3,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=Waving&fontSize=38&fontColor=black&text=Welcome&nbsp;To&nbsp;My&nbsp;GitHub&animation=fadeIn&color=timeGradient)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
   
 <h3>📚</h3>
 <p>
@@ -17,11 +18,16 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black">
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white"> <br>
   <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat-square&logo=fontawesome&logoColor=white">
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white">
+  <img src="">
+  <img src="">
+  <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
+  <img src="">
 </p>
 
 <h3>:sparkles:</h3>
