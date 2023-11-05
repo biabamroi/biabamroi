@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=whit">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat-square&logo=opensea&logoColor=white">
 </p>
 
 <h3>:sparkles:</h3>
