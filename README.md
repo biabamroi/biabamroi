@@ -35,7 +35,8 @@
 
 <h3>:sparkles:</h3>
 <p>
-  <a href="mailto:biabamroi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+  <a href="mailto:biabamroi@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=biabamroi@gmail.com"/></a>
+  <a href="https://open.kakao.com/me/propraecantator"><img src="https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000"/></a>
 </p>
 
 #
