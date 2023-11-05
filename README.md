@@ -27,9 +27,9 @@
   <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white">  <br>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=flat-square&logo=riotgames&logoColor=whit">
   <img src="https://img.shields.io/badge/steam-%23000000.svg?style=flat-square&logo=steam&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=flat-square&logo=opensea&logoColor=white">
 </p>
 
